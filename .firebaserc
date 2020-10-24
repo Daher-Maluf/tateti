@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sq-demos": {
+      "hosting": {
+        "tictactoe": [
+          "sq-demos"
+        ]
+      }
+    }
+  }
+}
