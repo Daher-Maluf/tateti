@@ -1,4 +1,6 @@
-# Tictactoe
+# Tateti
+
+You can see this project live at the following URL: https://sq-demos.web.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
